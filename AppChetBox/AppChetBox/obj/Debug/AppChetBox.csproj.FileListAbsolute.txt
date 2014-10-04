@@ -1,0 +1,9 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\bin\Debug\AppChetBox.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.Form1.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.Properties.Resources.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.csproj.GenerateResource.Cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\bin\Debug\AppChetBox.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\bin\Debug\AppChetBox.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppChetBox\AppChetBox\obj\Debug\AppChetBox.pdb

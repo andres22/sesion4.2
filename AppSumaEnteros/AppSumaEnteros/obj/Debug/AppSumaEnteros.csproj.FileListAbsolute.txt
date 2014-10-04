@@ -1,0 +1,9 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\bin\Debug\AppSumaEnteros.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\bin\Debug\AppSumaEnteros.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\bin\Debug\AppSumaEnteros.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\obj\Debug\AppSumaEnteros.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\obj\Debug\AppSumaEnteros.Form1.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\obj\Debug\AppSumaEnteros.Properties.Resources.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\obj\Debug\AppSumaEnteros.csproj.GenerateResource.Cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\obj\Debug\AppSumaEnteros.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppSumaEnteros\AppSumaEnteros\obj\Debug\AppSumaEnteros.pdb
